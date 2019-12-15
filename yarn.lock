@@ -862,10 +862,9 @@ set-blocking@^2.0.0:
   resolved "https://registry.yarnpkg.com/set-blocking/-/set-blocking-2.0.0.tgz#045f9782d011ae9a6803ddd382b24392b3d890f7"
   integrity sha1-BF+XgtARrppoA93TgrJDkrPYkPc=
 
-size-limit@2.2.2:
+size-limit@2.2.2, "size-limit@https://github.com/pustovalov/size-limit#build":
   version "2.2.2"
-  resolved "https://registry.yarnpkg.com/size-limit/-/size-limit-2.2.2.tgz#292a032cb52545a2bab8dbeef433659a8fd21f3d"
-  integrity sha512-SgKOynIVQ2Y+V7H0k9Lbot4UfB9KTs+jA4Zj9VHMYAOhB3UydZ3yk424aDxSS2FcN9bYNqn39+nOh93lhJcPbQ==
+  resolved "https://github.com/pustovalov/size-limit#00c0888636f72c6d880f24b26c662aa8d262f9ea"
   dependencies:
     bytes "^3.1.0"
     chalk "^3.0.0"

@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "@size-limit/preset-app": "^2.2.2"
+  },
+  "resolutions": {
+    "size-limit": "https://github.com/pustovalov/size-limit#build"
   }
 }
