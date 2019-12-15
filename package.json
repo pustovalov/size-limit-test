@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "size": "yarn size-limit"
+  },
+  "devDependencies": {
+    "@size-limit/preset-app": "^2.2.2"
+  }
+}
