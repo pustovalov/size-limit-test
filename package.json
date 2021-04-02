@@ -4,9 +4,9 @@
     "size": "yarn size-limit"
   },
   "devDependencies": {
-    "@size-limit/preset-app": "^4.5.2"
+    "@size-limit/preset-small-lib": "4.10.1"
   },
   "dependencies": {
-    "size-limit": "^4.5.2"
+    "size-limit": "4.10.1"
   }
 }

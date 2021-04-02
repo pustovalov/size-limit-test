@@ -1,66 +1,7 @@
 [
   {
-    "path": "public/packs-test/vendors-*.js",
-    "limit": "775 KB"
-  },
-  {
-    "path": "public/packs-test/lite/lite-*.js",
-    "limit": "100 KB"
-  },
-  {
-    "path": "public/packs-test/common-*.js",
-    "limit": "10 KB"
-  },
-  {
-    "path": "public/packs-test/sites/sites_spa-*.js",
-    "limit": "25 KB"
-  },
-  {
-    "path": "public/packs-test/campaign_rules-*.js",
-    "limit": "45 KB"
-  },
-  {
-    "path": "public/packs-test/font_uploader-*.js",
-    "limit": "10 KB"
-  },
-  {
-    "path": "public/packs-test/auth-*.js",
-    "limit": "10 KB"
-  },
-  {
-    "path": "public/packs-test/campaign_copy-*.js",
-    "limit": "5 KB"
-  },
-  {
-    "path": "public/packs-test/global_ajax_event_handlers-*.js",
-    "limit": "5 KB"
-  },
-  {
-    "path": "public/packs-test/info_sidebar-*.js",
-    "limit": "5 KB"
-  },
-  {
-    "path": "public/packs-test/multiple_campaign_editor-*.js",
-    "limit": "15 KB"
-  },
-  {
-    "path": "public/packs-test/accounts/accounts_edit-*.js",
-    "limit": "25 KB"
-  },
-  {
-    "path": "public/packs-test/bundle_ab_tests-*.js",
-    "limit": "15 KB"
-  },
-  {
-    "path": "public/packs-test/bundle_editor-*.js",
-    "limit": "200 KB"
-  },
-  {
-    "path": "public/packs-test/bundle_campaign_ab_tests-*.js",
-    "limit": "15 KB"
-  },
-  {
-    "path": "public/packs-test/js_pdf-*.js",
-    "limit": "115 KB"
+    "path": "public/packs-test/vendors~*.js",
+    "limit": "745 KB",
+    "webpack": false
   }
 ]
